@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185913722733",
+    "firebase_url": "https://cvrp-23ec2-default-rtdb.firebaseio.com",
+    "project_id": "cvrp-23ec2",
+    "storage_bucket": "cvrp-23ec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185913722733:android:4e0012a360702ab514fc64",
+        "android_client_info": {
+          "package_name": "com.example.authvrp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185913722733-7moadrhgopd08vkjggvumuk3bup4vjr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi6gAPGmQ1MtDhIM3cIZlSsAOQuNgKjbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185913722733-7moadrhgopd08vkjggvumuk3bup4vjr6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "185913722733-7mqbb5fcgrk9kmf61pblcmv7v3lqe66p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.authvrp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
